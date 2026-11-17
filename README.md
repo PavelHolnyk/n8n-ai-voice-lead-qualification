@@ -22,6 +22,10 @@ Website callback → Happ.tools voice call → Zoho CRM → OpenAI conversation 
 - Store structured call analysis before marking a Lead as processed.
 - Combine lead statuses and conversation insights in one management report.
 
+## Workflow
+
+[![n8n workflow](workflow.png)](workflow.png)
+
 ## Results
 
 - **Automatic first-pass qualification:** the AI voice agent collects qualification details and updates CRM records, reducing routine work for managers.
@@ -44,3 +48,4 @@ Self-hosted n8n, Happ.tools Voice Agent, Zoho CRM API, OpenAI API, Google Sheets
 **Pavlo Holnyk — AI Automation & AI Agents**
 
 [Portfolio](https://tangy-whitefish-6d0.notion.site/408c12839d06816f9e61ff1aa7392587) · [LinkedIn](https://www.linkedin.com/in/pavlo-holnyk/) · [Upwork](https://www.upwork.com/freelancers/~011ee82fd5725aa92e)
+
